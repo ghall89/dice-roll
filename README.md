@@ -13,8 +13,8 @@ A simple CLI app written in JavaScript to create dice rolls for Dungeons and Dra
 ## Usage
 
 1. From the project directory, run `node index.js` in your terminal
-2. Select your die of choice.
-3. When you are done, select `Exit` from the menu.
+2. Select your die of choice
+3. Choose number of dice (default is 1)
 
 ## Dependencies
 
